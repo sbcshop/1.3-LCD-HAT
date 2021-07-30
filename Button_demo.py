@@ -30,11 +30,6 @@ KEY2_PIN       = 20
 KEY3_PIN       = 16
 KEY4_PIN       = 12
 
-RST = 27
-DC = 25
-BL = 24
-bus = 0 
-device = 0 
 
 # 240x240 display with hardware SPI:
 disp = ST7789.ST7789(SPI.SpiDev(bus, device),RST, DC, BL)
