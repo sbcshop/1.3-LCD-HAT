@@ -13,9 +13,11 @@ from PIL import ImageFont
 
 
 #GPIO define
-RST_PIN        = 25
-CS_PIN         = 8
-DC_PIN         = 24
+RST = 27
+DC = 25
+BL = 24
+bus = 0 
+device = 0 
 
 KEY_UP_PIN     = 26 
 KEY_DOWN_PIN   = 6
