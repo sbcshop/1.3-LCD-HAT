@@ -4,4 +4,6 @@
 
 **Buy it From:** https://shop.sb-components.co.uk/products/1-3-lcd-hat-for-raspberry-pi
 
-#### For Complete setup and installation, Pleasew visit https://learn.sb-components.co.uk/Pi-1.3-LCD-HAT
+### For Complete setup and installation, Please visit below link
+
+#### https://learn.sb-components.co.uk/Pi-1.3-LCD-HAT
